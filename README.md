@@ -21,10 +21,15 @@ Welcome to the Catering Service Application! This Flutter-based application is d
   - Allows users to confirm their orders and navigate to the payment process easily.
 
 ## Screenshots
-![WhatsApp Image 2024-12-11 at 9 26 32 AM (1)](https://github.com/user-attachments/assets/2232ad88-1a12-467c-acc4-8b5ae2fc9254)
-![WhatsApp Image 2024-12-11 at 9 26 33 AM](https://github.com/user-attachments/assets/e9c744c0-b2f2-4f9c-84f9-36e7a5126e2c)
-![WhatsApp Image 2024-12-11 at 9 26 32 AM (2)](https://github.com/user-attachments/assets/a5bb0f21-7247-4efe-97a4-7be2d16c2350)
-![WhatsApp Image 2024-12-11 at 9 26 32 AM](https://github.com/user-attachments/assets/90cb6e9c-e275-4616-b60c-8e6095a3fd8d)
+![WhatsApp Image 2024-12-11 at 9 33 14 AM](https://github.com/user-attachments/assets/343fba71-54d6-4ca6-8473-dafdeece7462)
+
+![WhatsApp Image 2024-12-11 at 9 33 14 AM (1)](https://github.com/user-attachments/assets/20ca872b-d3ce-4d69-90bd-8ead2b1e13ef)
+
+![WhatsApp Image 2024-12-11 at 9 33 15 AM](https://github.com/user-attachments/assets/fad67d07-3f97-4eb1-9780-68a10fd40f5b)
+
+![WhatsApp Image 2024-12-11 at 9 33 15 AM (1)](https://github.com/user-attachments/assets/9f8f2d1d-6b4f-4ae4-bd20-21ca905e7f15)
+
+![WhatsApp Image 2024-12-11 at 9 33 15 AM (2)](https://github.com/user-attachments/assets/87a44518-d5ee-41f4-9f34-6f4501b5135f)
 
 
 ## Technologies Used
